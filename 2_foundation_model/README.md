@@ -1,4 +1,4 @@
-# Knowledge-Guided Machine Learning Workshop: Tutorial Code For Scientific Foundation Model for Materials Science
+# Apply Scientific Foundation Model for Materials Science
 
 Author: [Changwen Xu](https://changwenxu98.github.io/)
 
