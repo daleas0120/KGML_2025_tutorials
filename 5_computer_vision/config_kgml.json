@@ -1,0 +1,9 @@
+{
+    "rootfolder": "./results/",
+    "resize_dimension": 1200,
+    "pad_dimension": 1200,
+    "button_width": 60,
+    "button_height": 22
+}
+
+

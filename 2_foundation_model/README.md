@@ -64,5 +64,5 @@ If you use or build upon these tutorials, please cite the KGML workshop and ackn
 
 ## 🌐 Workshop Info
 
-This repository is part of the **Knowledge-Guided Machine Learning Workshop**. For more details, visit the official website or see the related paper/demo links.
+This repository is part of the **Knowledge-Guided Machine Learning Workshop**. For more details, visit the [official workshop website](https://midas.umich.edu/events/kgml-workshop-leading-the-new-paradigm-of-ai-for-science/).
 
