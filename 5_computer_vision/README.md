@@ -1,4 +1,4 @@
-# From Data to Discovery: Applying Computer Vision for Scientific Image Analysis with Vascilia + Napar
+# From Data to Discovery: Applying Computer Vision for Scientific Image Analysis with Vascilia + Napari
 
 Author: [Yasmin Kassim](https://github.com/Yasmin-Kassim)
 
