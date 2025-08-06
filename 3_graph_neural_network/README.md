@@ -28,3 +28,24 @@ First, you must get the required data. Click the link below and save the content
 ### Spatial-Temporal Graph Learning
 
 * [Spatial-temporal graph learning for the traffic data](https://colab.research.google.com/drive/1950jb6MYTmMJt87_tEmv6Sb3X42_id_K)
+
+
+
+## Installation for my works
+
+> **Important Note**: Due to the long installation time for dependencies on Google Colab, we strongly recommend setting up and running this project in a **local environment** for a better experience.
+
+### Dependencies
+
+This project primarily depends on `PyTorch` and `PyTorch Geometric` (PyG). Please follow the steps below to install the required libraries.
+
+#### 1. Install PyTorch Geometric (PyG)
+
+The following commands are for an environment with `PyTorch 2.5.1` and `CUDA 12.4`. If your setup is different, please consult the [official PyG installation documentation](https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html) to find the appropriate commands for your system.
+
+```bash
+# For PyTorch 2.5.1 and CUDA 12.4
+pip install -q torch-scatter -f [https://data.pyg.org/whl/torch-2.5.1+cu124.html](https://data.pyg.org/whl/torch-2.5.1+cu124.html)
+pip install -q torch-sparse -f [https://data.pyg.org/whl/torch-2.5.1+cu124.html](https://data.pyg.org/whl/torch-2.5.1+cu124.html)
+pip install -q torch-cluster -f [https://data.pyg.org/whl/torch-2.5.1+cu124.html](https://data.pyg.org/whl/torch-2.5.1+cu124.html)
+pip install -q git+[https://github.com/pyg-team/pytorch_geometric.git](https://github.com/pyg-team/pytorch_geometric.git)
